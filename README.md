@@ -5,6 +5,23 @@
 The sequence generator is a recurrent neural network, more specifically a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)] cell.
 the cell is trained with a text (could be anything), one sequence one at a time.
 
+## Example
+`
+Sonnet Lxxxvii
+Farewell! thou art too dear for my possessing,
+And like enough to mine on thee:
+Now thou being mine, mine is thy goest of love?
+Now All is done, have what shall have no ell:
+My dullay plaint is vort is in my love argost
+And folly docth comes gift thou shouldst best.
+Hath in thy love bath warking mays mysplind;
+All my thrice more than I have spent:
+For as the sun is daily new and old,
+So is my love still telling what is told.
+William Shakespeare
+`
+
+
 ## Algorithm
 
 We use the backpropagation algo to update the weight, by minimising the cost. and the
