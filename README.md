@@ -34,3 +34,4 @@ repeated, until the cost is satisfying.
 1. the file `char-lstm.py` and `char-lstm-v2.py` contains the code for training the lstm cell.
 2. the file `char-lstm.bin` is pickled file for the weights used in `char-lstm.py`
 3. i wanted to implement a n-cell LSTM which are stacked. but i didn't get it right, because of errors in backprop implementation. but i am still working on that.
+4. optionlly you can use [cupy](https://cupy.dev/), to used mixed cpu, gpu training.
