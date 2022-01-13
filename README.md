@@ -6,7 +6,7 @@ The sequence generator is a recurrent neural network, more specifically a [LSTM]
 the cell is trained with a text (could be anything), one sequence one at a time.
 
 ## Example
-`
+```
 Sonnet Lxxxvii
 Farewell! thou art too dear for my possessing,
 And like enough to mine on thee:
@@ -19,7 +19,7 @@ All my thrice more than I have spent:
 For as the sun is daily new and old,
 So is my love still telling what is told.
 William Shakespeare
-`
+```
 
 
 ## Algorithm
