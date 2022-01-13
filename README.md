@@ -2,7 +2,7 @@
 
 ## Topic
 
-The sequence generator is a recurrent neural network, more specifically a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)] cell.
+The sequence generator is a recurrent neural network, more specifically a [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) cell.
 the cell is trained with a text (could be anything), one sequence one at a time.
 
 ## Example
